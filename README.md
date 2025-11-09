@@ -30,7 +30,7 @@
 ### 1. Клонирование/загрузка проекта
 
 ```bash
-git clone https://github.com/eskievv/-ext-sub9-ext-sub35-VK-Cloud.git
+git clone https://github.com/eskievv/vk_cloud_interface_manager.git
 cd vk_cloud_interface_manager
 ```
 
